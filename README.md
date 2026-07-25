@@ -1,86 +1,61 @@
-# 🌍 War Impact Analysis Dashboard (Iran vs Israel)
+# 🌍 War Impact Analysis Dashboard
 
-## 📌 Project Overview
-
-This project is an interactive Excel Dashboard that analyzes the economic impact of conflicts with a focus on Iran and Israel.
-
-The dashboard provides insights into:
-
-- Total War Cost
-- Average Currency Devaluation
-- Average Unemployment Rate
-- War Cost Distribution
-- Currency Devaluation Comparison
-- Cost by Conflict
-- Interactive Filters using Slicers
+Developed an interactive Excel dashboard to analyze the economic impact of global conflicts with a focus on the **Iran–Israel** and **Israel–Hamas** wars. The dashboard transforms raw conflict data into meaningful insights through visual analytics, KPI cards, and interactive filtering.
 
 ---
 
-## Dashboard Preview
+## 📊 War Impact Analysis Dashboard (Excel)
 
+### 📌 Overview
 
+This project presents an interactive **Microsoft Excel Dashboard** designed to analyze the economic effects of major conflicts. The dashboard enables users to explore war-related metrics using dynamic charts and slicers.
 
----
+The analysis focuses on:
 
-## Features
-
-✅ KPI Cards
-
-- Total Cost
-- Average Currency Devaluation
-- Average Unemployment
-
-✅ Interactive Slicers
-
-- Status
-- Country
-- Conflict Type
-
-✅ Charts
-
-- Pie Chart
-- Bar Chart
-- Column Chart
+- War cost analysis
+- Currency devaluation
+- Unemployment during conflict
+- Conflict-wise cost comparison
+- Country-wise economic impact
+- Interactive filtering and visualization
 
 ---
 
-## Tools Used
+### 💡 Key Findings
+
+- 💰 The **Israel–Iran War** recorded the highest total war cost among the selected conflicts.
+- 📉 **Iran** experienced higher average currency devaluation than Israel.
+- 👥 **Israel** showed a higher unemployment rate during the analyzed period.
+- 📊 Interactive slicers allow users to analyze data by **Status**, **Country**, and **Conflict Type**.
+- 📈 KPI cards provide a quick overview of total war cost, average devaluation, and unemployment.
+
+---
+
+### 🛠️ Tools & Technologies
 
 - Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Conditional Formatting
+- Pivot Tables & Pivot Charts
+- Interactive Slicers
+- Data Cleaning
+- Dashboard Design & Visualization
 
 ---
 
-## Dataset Columns
+### 📂 Files Included
 
-- Country
-- Conflict Name
-- Conflict Type
-- Status
-- War Cost
-- Currency Devaluation
-- Unemployment Rate
+- Excel Dashboard (.xlsx)
+- Dashboard Screenshot (.png)
+- README.md
 
 ---
 
-## Key Insights
+### 🎯 Objective
 
-- Israel-Iran War has the highest overall cost.
-- Iran experienced greater currency devaluation.
-- Israel recorded higher unemployment during the selected period.
-- Interactive slicers allow dynamic analysis.
+To analyze the economic impact of wars by visualizing key indicators such as war cost, unemployment, and currency devaluation, enabling users to gain insights through an interactive Excel dashboard.
 
 ---
 
-## Author
+### 📷 Dashboard Preview
 
-**Charmi D**
+<img width="805" height="562" alt="image" src="https://github.com/user-attachments/assets/32d45646-1997-4440-9ea7-29a5aa9d670d" />
 
-LinkedIn:
-(Add your LinkedIn URL)
-
-GitHub:
-(Add your GitHub URL)
